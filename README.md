@@ -34,6 +34,10 @@ your visitors?
 <blink frequency="500ms">Vote for this site!</blink>
 ```
 
+## Intended Audience
+
+Developers too stubborn to write CSS.
+
 ## Installation
 
 `bower install ng-blink`
