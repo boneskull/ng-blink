@@ -1,0 +1,31 @@
+{
+  "name": "ng-blink",
+  "version": "0.1.0",
+  "authors": [
+    "Christopher Hiller <chiller@badwing.com>"
+  ],
+  "description": "<blink> is dead.  Long live <blink>!",
+  "main": "ng-blink.js",
+  "keywords": [
+    "angular",
+    "angularjs",
+    "ng",
+    "blink",
+    "blinking",
+    "blinker",
+    "tag"
+  ],
+  "license": "MIT",
+  "homepage": "http://github.com/boneskull/ng-blink",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/src/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "*"
+  }
+}
