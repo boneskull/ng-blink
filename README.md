@@ -5,7 +5,13 @@ they've taken away `<blink>`.  Will *your* favorite tag be... **deprecated**?
 
 Enter **ng-blink**.
 
-To use, simply include the module,
+To use, simply include the `ng-blink.js` file,
+
+```html
+<script type="text/javascript" src="/path/to/ng-blink.js"></script>
+```
+
+then include the module,
 
 ```js
 angular.module('myApp', ['ng.blink']);
